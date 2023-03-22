@@ -13,5 +13,6 @@ public class Constructor {
 
     public void setName(String name) {
         this.name = name;
+        int a;
     }
 }
