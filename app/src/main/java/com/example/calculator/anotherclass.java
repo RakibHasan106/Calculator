@@ -6,5 +6,4 @@ public class anotherclass {
     public anotherclass(int num) {
         this.num = num;
     }
-    int b;
 }
